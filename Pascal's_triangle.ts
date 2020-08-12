@@ -14,6 +14,7 @@ function getRow(rowIndex: number): number[] {
         }
         z.push(1);
         x=z;
+
     }
 
 if(rowIndex==0){
